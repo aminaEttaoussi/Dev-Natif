@@ -24,6 +24,3 @@ Features:
 - Supports both **phones** and **Wear OS smartwatches**  
 - Built using ViewModel, Coroutines, and Material 3
 
----
-🧠 Author: Saad EL MABROUK
-📅 Year: 2024-2025
